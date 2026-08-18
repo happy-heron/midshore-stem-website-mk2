@@ -1,8 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/logo-b.svg"
-logo_on_black: "/img/logo-w.svg"
+logo_on_white: "/img/new-stem-logo.png"
+logo_on_black: "/img/new-stem-logo.png"
 custom_js: []
 custom_css: []
 
@@ -13,7 +13,7 @@ images: ["/img/social-share.png"]
 
 github:
   repo_url: "https://github.com/username/repo/blob/master"
-  show_edit_link: true
+  show_edit_link: false
 
 social_links:
   devstats: ""
