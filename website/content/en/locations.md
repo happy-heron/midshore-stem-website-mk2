@@ -9,4 +9,4 @@ We currently have three locations:
 2. St. Michaels (Bay 100)
 3. Denton
 
-During the camp week, each location will post updates on [the blog](/blog), so stay tuned!
+#### During the camp week, each location will post updates on [the blog](/blog)!
