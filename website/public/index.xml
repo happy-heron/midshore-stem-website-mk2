@@ -1,0 +1,46 @@
+<rss version="2.0">
+    <channel>
+        <title>MidShore STEM Camp on MidShore STEM</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content in MidShore STEM</description>
+
+         
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                 
+                <item>
+                    <title>Hello World</title>
+                    <link>http://localhost:1313/blog/hello-world/</link>
+                    <pubDate>Tue, 01 Aug 2023 00:00:00 -0400</pubDate>
+                    <description>Welcome to our first blog post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa.&#xA;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
+                </item>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    </channel>
+</rss>
