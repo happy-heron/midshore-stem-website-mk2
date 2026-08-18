@@ -38,6 +38,12 @@ en:
       weight: 2
       post: "Discover our locations across the Eastern Shore"
       parent: "about"
+    - identifier: "child-3"
+      name: "Leaders"
+      url: "/leaders/"
+      weight: 3
+      post: "See the faces behind the experience"
+      parent: "about"
     - identifier: "donate"
       name: "Donate"
       url: "/donate/"
